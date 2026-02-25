@@ -30,6 +30,6 @@ This profile is a work in progress and will be updated as projects evolve.
 ## Skills
 
 <!-- PROFILE_SKILLS_START -->
-- [openclaw-nightly-goodnight](https://github.com/janetariachen-netizen/openclaw-nightly-goodnight): Create or maintain an OpenClaw nightly "goodnight" automation where each bot generates its own reply at runtime (via `openclaw agent`),…
+- (No uploaded skill repos found yet)
 <!-- PROFILE_SKILLS_END -->
 
