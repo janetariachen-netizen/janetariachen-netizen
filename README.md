@@ -16,7 +16,7 @@ Building practical AI workflows, automations, and multi-bot systems.
 
 ## Projects
 
-- `openclaw-nightly-goodnight`: nightly goodnight automation and scheduling workflows
+- [openclaw-nightly-goodnight](https://github.com/janetariachen-netizen/openclaw-nightly-goodnight): nightly goodnight automation and scheduling workflows
 - OpenClaw operations docs: recovery, monitoring, and maintenance notes
 
 ## Connect
