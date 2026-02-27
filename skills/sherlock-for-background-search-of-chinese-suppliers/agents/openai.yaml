@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sherlock Supplier Background Search"
+  short_description: "Back-check Chinese suppliers with OSINT signals"
+  default_prompt: "Use $sherlock-for-background-search-of-chinese-suppliers to assess a supplier, infer product intent, and collect verifiable contacts."
