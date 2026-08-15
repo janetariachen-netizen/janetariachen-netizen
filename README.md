@@ -35,6 +35,7 @@ I bring an operator's perspective: zero-to-one business building, B2B software, 
 <summary>More shipped systems</summary>
 
 <!-- PROFILE_SKILLS_START -->
+- [frontend-skill](https://github.com/janetariachen-netizen/frontend-skill): Use when the task asks for a visually strong landing page, website, app, prototype, demo, or game UI, or supplies website references,…
 - [openclaw-nightly-goodnight](https://github.com/janetariachen-netizen/openclaw-nightly-goodnight): Create or maintain an OpenClaw nightly "goodnight" automation where each bot generates its own reply at runtime (via `openclaw agent`),…
 <!-- PROFILE_SKILLS_END -->
 
